@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          JavaScript Sandbox Zero
         </p>
         <a
           className="App-link"
@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <footer>SCC 2022 - js-sbx-0</footer>
     </div>
   );
 }
